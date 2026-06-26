@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello , I'm Deva Harshini
 
-<!--
-**harshini-dev19/harshini-dev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 CSE Student
+- 💻 Full Stack Developer
+- 🌱 Currently learning new technologies and building real-world projects
+- 🏭 Worked in ERP and Web Development projects(industry)
+- 🚀 Aspiring Software Engineer
+- 🤝 Open to collaboration and learning
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Quote
+> "Code. Learn. Build. Repeat."
+
+Thanks for visiting my profile! ⭐
